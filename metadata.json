@@ -1,0 +1,6 @@
+{
+  "name": "Aero Strange Chats",
+  "description": "Sophisticated, highly secure real-time messaging and VoIP calling app, operated by Aero Strange International Platforms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
